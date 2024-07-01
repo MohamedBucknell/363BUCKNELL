@@ -6,7 +6,7 @@ import os
 files = []
 
 secretpassword="adhrs7551A:"
-print("To decrypt your valuable files, send me 10 BTCs to this BTC Address: 8768752868526752VSGV")
+print("To decrypt your valuable files, you must say please.")
 
 userpassword=input("Enter decryption password: ")
 if userpassword !=secretpassword:
