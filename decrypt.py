@@ -36,4 +36,4 @@ for file in files:
 		thefile.write(contents_decrypted)
 
 
-print("Congrats! All of your files have been decrypted! Thanks for getting hacked with us. Bye!")
+print("Congrats! All of your files have been decrypted!")
